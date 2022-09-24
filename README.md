@@ -57,7 +57,8 @@ Responsive
   <summary>uitwerken na test in 1e werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+ Het is een wereld van verschil om het web op de manier te gebruiken hoe mindervaliden dit doen.
+ Ik hoop dat deze mensen hier beter aan gewend zijn en er minder aan storen dan dat ik dat deed.
 
   #### Screenreader
  De screenreader was moeilijk te gebruiken, dit had echter niet met
@@ -71,9 +72,8 @@ Responsive
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+Met de schokjes op de hoogste stand was het erg moeilijk om de site gewoonlijk te gebruiken aangezien ik mijn laptop bijna kapot sloeg.
+Dit zou je mogelijk kunnen oplossen met een oogtracker aangezien het moeilijk is een muis te gebruiken.
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
@@ -110,7 +110,7 @@ aangezien de site redelijk zwart wit is en er niet elementen worden uitgelicht m
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  De code was onvolledig, ik was veel blijven hangen deze week, coderen ging stroef 
 
 
   ### Agenda voor meeting
@@ -159,10 +159,10 @@ aangezien de site redelijk zwart wit is en er niet elementen worden uitgelicht m
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+Er zaten veel schoonheids foutjes in mijn code.
+De andere waren al een stuk verder met hun code
+
+Het liep uit en er was weinig tijd over voor de vragen die ik had voorbereid.
 
 </details>
 
