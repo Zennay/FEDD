@@ -39,13 +39,13 @@ Responsive
   https://sprec.com/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Homepage
   
-  <img src="https://imgur.com/a/XbYNS9r" width="375px" alt="omschrijving van de pagina"/>
+  <img src="https://imgur.com/wrsExmg" width="375px" alt="omschrijving van de pagina"/>
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="https://imgur.com/Q5XfUod" width="375px" alt="omschrijving van de pagina"/>
+  <img src="https://imgur.com/a/E6AfCB3" width="375px" alt="omschrijving van de pagina"/>
  
 </details>
 
@@ -90,13 +90,13 @@ aangezien de site redelijk zwart wit is en er niet elementen worden uitgelicht m
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="https://imgur.com/a/95AAcTc" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="https://imgur.com/a/NFoCVjt" width="375px" alt="breakdown van tweede pagina">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="https://imgur.com/9c0Qv1H" width="375px" alt="Breakdown menu">
 
 </details>
 
