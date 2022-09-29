@@ -176,30 +176,24 @@ Het liep uit en er was weinig tijd over voor de vragen die ik had voorbereid.
   <summary>uitwerken na test in 8e werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+ Verbeterd: een introductie tot de pagina met een H1
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Images worden niet voorgelezen omdat het background images zijn.
+  ook word image eerder gelezen dan de h2
+  
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Gaat eerst naar navigatie
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+De website was redelijk bruikbaar omdat de knoppen op normale plekken zitten en normale grootte hebben.
+footer knoppen zijn klein dus moeilijk klikbaar.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+Bepaalde teksten zijn slecht leesbaar omdat het het font dun is en het contrast wat laag is.
 
 </details>
 
