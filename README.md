@@ -155,7 +155,24 @@ aangezien de site redelijk zwart wit is en er niet elementen worden uitgelicht m
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
-
+  Student 1:
+Hoe kan ik mijn site responsive maken en de portfolio blokken naast elkaar zetten als het scherm groter word
+Hoe krijg ik een streepje achter mijn tekst zoals eerst.
+Hoe krijg ik mijn svg logo mooi in het scherm.
+  
+  Student 2: 
+  
+  Hoe krijg ik een andere kleur outline geven
+  - Hoe kan ik het beste de tekst na het aanvink vakje plaatsen
+  - Hoe krijg ik het voor elkaar om een button disabled te maken en vervolgens, abled te maken als er op de aanvinkinput wordt geklikt?
+  
+  Student 3:
+  
+  kan ik 2 style sheet gebruiken of moet ik meteen 3 gebruiken?
+ziet mijn html en css code er to nu toe er goed uit?  
+hoe verandere ik de kleur van de svg bestand in css
+  
+  
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
