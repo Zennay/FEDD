@@ -240,10 +240,9 @@ Bepaalde teksten zijn slecht leesbaar omdat het het font dun is en het contrast 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+Deze meeting is ingehaald en was daarom niet met andere studenten.
+Hier had ik een 1 op 1 gesprek met sanne waarbij ik werd geholpen.
+
 
 </details>
 
@@ -257,7 +256,7 @@ Bepaalde teksten zijn slecht leesbaar omdat het het font dun is en het contrast 
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="https://imgur.com/a/O1ICXSj" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
@@ -267,7 +266,7 @@ Bepaalde teksten zijn slecht leesbaar omdat het het font dun is en het contrast 
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Micro interacties
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
