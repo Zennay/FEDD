@@ -260,15 +260,18 @@ Hier had ik een 1 op 1 gesprek met sanne waarbij ik werd geholpen.
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+ Het maken van een javascript sidemenu met button die verandert.
+ Dit koste mij veel moeite en de logica die ik dacht te gebruiken lukte niet.
+ Uiteindelijk na veel puzzelen er toch op gekomen
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="https://imgur.com/a/vNibAJt" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Micro interacties
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  Micro interacties,
+  Bepaalde animaties die op de sprec website wel zaten heb ik niet toegevoegd.
+  Dit was te lastig.
+  
 </details>
 
 
@@ -282,8 +285,8 @@ Hier had ik een 1 op 1 gesprek met sanne waarbij ik werd geholpen.
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. http://sprec.com/
+  2. DLO oefeningen
+  3. Andere bronnen heb ik helaas niet geregistreerd maar zeker gebruikt.
 
 </details>
